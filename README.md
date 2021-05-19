@@ -3,6 +3,8 @@
 Voici le début de l'extension wordpress initalement développée pour le site du serveur minecraft PureVanilla France visant à apporter un espace communauté au site pour remplacer le Google Sheet qui sert de base de données.
 Je n'ai pas eu le temps de finir le travail et il est assez probable que je ne puisse plus m'en occuper à partir de maintenant, je le laisse donc à disposition de l'Internet pour qu'il le termine ou bien l'oublie.
 
+L'extension se nomme *PVF-commu* par conséquent le code doit être placé dans un dossier nommé PVF-commu dans le dossier des plugins de wordpress.
+
 ## Ce qui fonctionne déjà
  - Commerce
  - Bases
